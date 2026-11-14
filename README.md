@@ -114,3 +114,4 @@ Local-first. Private by default. Always yours. No backend, account, telemetry, o
 
 DM Sans is hosted locally; its license is included in `public/fonts/OFL.txt`.
 "# IdeaMap" 
+"# IdeaMap-code" 
